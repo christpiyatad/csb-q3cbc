@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://christpiyatad.github.io/csb-q3cbc/static/js/main.10b86c3a.chunk.js",
+    "main.js.map": "https://christpiyatad.github.io/csb-q3cbc/static/js/main.10b86c3a.chunk.js.map",
+    "runtime-main.js": "https://christpiyatad.github.io/csb-q3cbc/static/js/runtime-main.1d1d8ea1.js",
+    "runtime-main.js.map": "https://christpiyatad.github.io/csb-q3cbc/static/js/runtime-main.1d1d8ea1.js.map",
+    "static/css/2.42f61bba.chunk.css": "https://christpiyatad.github.io/csb-q3cbc/static/css/2.42f61bba.chunk.css",
+    "static/js/2.48988c4d.chunk.js": "https://christpiyatad.github.io/csb-q3cbc/static/js/2.48988c4d.chunk.js",
+    "static/js/2.48988c4d.chunk.js.map": "https://christpiyatad.github.io/csb-q3cbc/static/js/2.48988c4d.chunk.js.map",
+    "index.html": "https://christpiyatad.github.io/csb-q3cbc/index.html",
+    "static/css/2.42f61bba.chunk.css.map": "https://christpiyatad.github.io/csb-q3cbc/static/css/2.42f61bba.chunk.css.map",
+    "static/js/2.48988c4d.chunk.js.LICENSE.txt": "https://christpiyatad.github.io/csb-q3cbc/static/js/2.48988c4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d1d8ea1.js",
+    "static/css/2.42f61bba.chunk.css",
+    "static/js/2.48988c4d.chunk.js",
+    "static/js/main.10b86c3a.chunk.js"
+  ]
+}
